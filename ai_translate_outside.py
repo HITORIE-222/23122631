@@ -1,4 +1,4 @@
-from test2 import translate
+from ai_translate_main import translate
 
 
 while True:
